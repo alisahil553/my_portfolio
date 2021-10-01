@@ -1,0 +1,38 @@
+.div1{
+    padding-top: 8%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+}
+
+.div2{
+    padding-top: 8%;
+    padding-left: 10%;
+    padding-bottom: 20%;
+}
+
+body{
+    background-color: rgb(245, 144, 108);
+}
+
+h1{
+    padding-top: 5%;
+    padding-left: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+i{
+    padding-top: 20px;
+    color: rgb(204, 76, 236);
+}
+
+i:hover{
+    color: rgb(240, 169, 183);
+}
+    
+.home{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25%;
+    top: 8%;
+}

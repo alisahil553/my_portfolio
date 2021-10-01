@@ -1,0 +1,120 @@
+/*Tags*/
+body{
+    background-color: #fefaf6;
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(15, 15, 15);
+    font-weight: bold;
+    line-height: 3rem;
+    font-size: 3rem;
+    
+}
+
+h3{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color:rgb(12, 12, 12);
+    line-height: 2rem;
+    text-decoration: wavy;
+    
+}
+
+p:hover{
+    text-shadow: 1px 1px black;
+}
+
+/*Classes*/
+.carouselid{
+    width: 30rem;
+    height: 25rem;
+    float: right;
+}
+
+.brand:hover{
+     color: aqua; 
+     font-size: x-large;
+}
+
+.title{
+    margin-top: 2rem;
+    
+}
+
+.section1{
+    padding-bottom: 6rem;
+    padding-top: 6rem;
+}
+
+.section2{
+    padding-top: 8rem;
+    background-color: #f5c99d;
+    padding-bottom: 6rem;
+}
+
+.section3{
+    padding-top: 8rem;
+    padding-bottom: 6rem;
+    
+}
+
+.intro{
+    margin-top: 4rem;
+    font-size: x-large;
+    line-height: 4rem;
+}
+
+.card{
+    
+    border-radius: 20%;
+}
+
+.cvv{
+    border-radius: 20%;
+}
+
+.fab{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    padding-left: 9rem;
+    color: tomato;
+    text-align: center;
+    
+}
+
+.cvv:hover{
+    width: 600px;
+    height: 600px;
+}
+
+.fab:hover{
+    color: aqua;
+    
+}
+
+
+.icons{
+    position: relative;
+    left: 30px;
+}
+
+.footer{
+    background-color: rgb(248, 229, 197);
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.foot{
+    text-decoration: none;
+    color: cadetblue;
+}
+/* ID */
+#nav-bar{
+   background-color:  #fefaf6 ;
+    margin-bottom: 1rem;
+}
+
